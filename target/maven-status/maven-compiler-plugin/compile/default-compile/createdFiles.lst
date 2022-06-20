@@ -1,0 +1,5 @@
+br\com\javaweb\acoes\AdicionaDespesa.class
+br\com\javaweb\acoes\RemoveDespesa.class
+br\com\javaweb\acoes\Acao.class
+br\com\javaweb\ServletController.class
+br\com\javaweb\acoes\ListaDespesas.class
